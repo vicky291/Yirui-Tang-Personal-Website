@@ -15,7 +15,7 @@
 
 
 ### Professional Memberships
-* American Society for Nutrition
-* American Society for Microbiology
+* 2022 - Present: American Society for Nutrition, Student Member
+* 2023 - Present: American Society for Microbiology, Student Member
 
 ### Skills
