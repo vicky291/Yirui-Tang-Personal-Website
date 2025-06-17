@@ -1,22 +1,22 @@
 # Yirui Tang's Curriculum Vitae  
-**Research Interests** 
+**Research Interests**   
 Host-Microbe Biology, Precision Health and Medicine, Fermentable Carbohydrate, Healthy Aging, Women's Health
 
 ### Education
 **Doctor of Philosophy in Nutritional Biology (Bioinformatics emphasis), 2025**
 University of California, Davis  
 
-**Bachelor of Science in Nutritional Biology, 2020**
-Minor in Quantitative Biology and Bioinformatics
+**Bachelor of Science in Nutritional Biology, 2020**   
+Minor in Quantitative Biology and Bioinformatics   
 University of California, Davis
 
 ### Employment
-**Graduate Student Researcher, September 2021 - Present**
-University of California, Davis (UCD), Davis, CA
-Principal Investigator: Dr. Danielle G. Lemay, USDA-ARS WHNRC
+**Graduate Student Researcher, September 2021 - Present**   
+University of California, Davis (UCD), Davis, CA    
+Principal Investigator: Dr. Danielle G. Lemay, USDA-ARS WHNRC    
 
-**Junior Specialist, January 2021 - September 2021**
-University of California, Davis (UCD), Davis, CA
+**Junior Specialist, January 2021 - September 2021**   
+University of California, Davis (UCD), Davis, CA   
 Principal Investigator: Dr. Danielle G. Lemay, USDA-ARS WHNRC
 
 ### Publications
