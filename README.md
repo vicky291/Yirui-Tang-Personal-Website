@@ -3,7 +3,7 @@
 Host-Microbe Biology, Precision Health and Medicine, Fermentable Carbohydrate, Healthy Aging, Women's Health
 
 ### Education
-**Doctor of Philosophy in Nutritional Biology (Bioinformatics emphasis), 2025**
+**Doctor of Philosophy in Nutritional Biology (Bioinformatics emphasis), 2025**    
 University of California, Davis  
 
 **Bachelor of Science in Nutritional Biology, 2020**   
