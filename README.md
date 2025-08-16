@@ -21,8 +21,8 @@ Principal Investigator: Dr. Danielle G. Lemay, USDA-ARS WHNRC
 
 ### Publications
 **Journal Articles**
-1. **Tang, Y.**, Oliver, A., Alkan, Z., Korf, I., Huang, L., Kable, M., & Lemay, D. (Under review). Association of lactose intake and lactase persistence genotype with microbial taxa and function in healthy multi-ethnic U.S. adults. Food & Function.
-2. Blecksmith, S., Kalanetra, K., Weng, C., Suarez, C., Sitepu, I., **Tang, Y.**, Cheang, S., Jiang, S., Cernioglo, K., Medina, K., Smilowitz, J., Lebrilla, C., Mills, D., & Lemay, D. (Under review). Fecal Microbiomes from Healthy Adult Consumers of Fruits and Vegetables Exhibit Fiber- and Donor-Specific Fermentation: “5 A Day” is Not Enough. Food & Function.
+1. **Tang, Y.**, Oliver, A., Alkan, Z., Korf, I., Huang, L., Kable, M., & Lemay, D. (Accepted). Association of lactose intake and lactase persistence genotype with microbial taxa and function in healthy multi-ethnic U.S. adults. Food & Function.
+2. Blecksmith, S., Kalanetra, K., Weng, C., Suarez, C., Sitepu, I., **Tang, Y.**, Cheang, S., Jiang, S., Cernioglo, K., Medina, K., Smilowitz, J., Lebrilla, C., Mills, D., & Lemay, D. (Accepted). Fecal Microbiomes from Healthy Adult Consumers of Fruits and Vegetables Exhibit Fiber- and Donor-Specific Fermentation: “5 A Day” is Not Enough. Food & Function.
 3. Oliver, A., Xue, Z., **Villanueva, Y. T.**, Durbin-Johnson, B., Alkan, Z., Taft, D. H., Liu, J., Korf, I., Laugero, K. D., Stephensen, C. B., Mills, D. A., Kable, M. E., & Lemay, D. G. (2022). Association of Diet and Antimicrobial Resistance in Healthy U.S. Adults. mBio, e0010122. Advance online publication. https://doi.org/10.1128/mbio.00101-22
 4. Blecksmith, S., Xue, Z., **Tang, Y.**, Alkan, Z., Stephensen, C., Kable, M., & Lemay, D. (2022). Carbohydrate Active Enzyme Profiles of Gut Microbiomes From Low and Adequate Fiber Consumers in a Healthy U.S. Cohort. Current Developments in Nutrition, 6(Supplement_1), 999–999. https://doi.org/10.1093/cdn/nzac069.004
 
